@@ -90,3 +90,4 @@ function searchLink(word) {
   // display new array contain matched search
   displayLinks(matchedLinks);
 }
+
